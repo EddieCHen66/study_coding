@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/myImages">
+        <file>images/actions/add.png</file>
+        <file>images/actions/back.png</file>
+        <file>images/actions/document-new.png</file>
+        <file>images/actions/filenew.png</file>
+        <file>images/actions/find.png</file>
+        <file>images/actions/finish.png</file>
+        <file>images/actions/application-exit.png</file>
+        <file>images/actions/document-open.png</file>
+        <file>images/actions/document-save.png</file>
+        <file>images/actions/document-save-as.png</file>
+        <file>images/actions/stock_close.png</file>
+        <file>images/actions/editcopy.png</file>
+        <file>images/actions/editcut.png</file>
+        <file>images/actions/editpaste.png</file>
+        <file>images/actions/edit-undo.png</file>
+        <file>images/actions/filefind.png</file>
+        <file>images/actions/gtk-help.png</file>
+    </qresource>
+</RCC>
